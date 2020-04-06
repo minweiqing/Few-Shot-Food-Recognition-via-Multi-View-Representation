@@ -1,5 +1,4 @@
-# <p align="center">Few-Shot Food Recognition via Multi-View Representation</p>
-  Few-Shot Food Recognition via Multi-View Representation Learning
+# <p align="center">Few-Shot Food Recognition via Multi-View Representation Learning</p>
 ====
   Description
 --
