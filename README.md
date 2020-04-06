@@ -13,7 +13,7 @@ RN-Ingredeint| 53.5%|70.5%|64.0%|
 MVFSL-LC|55.1%|74.8%|65.8%|
 **MVFSL-TC**|**55.3%**|**75.1%**|**66.1%**|
 ## Split&Pre-trained models
-[split.zip](https://www.baidu.com/)  contains the train/test split of three food datasets(Food-101,VIREO Food172 and ChineseFoodNet) used in our paper. we show the category split, also the ingredient split. 
+[split.zip](https://www.baidu.com/)  contains the train/test split of three food datasets(Food-101,VIREO Food172 and ChineseFoodNet) used in our paper. we show both the category split and the ingredient split. 
 [Pre-trained_model](https://www.baidu.com/) contains all the pre-trained models in this work.
 ## Requirements
 Training and testing codes are integrated into one repositories:
@@ -28,4 +28,13 @@ Note: The model need to be initialized by pre-trained model, and you need to mod
 For MVFSL-LC:
 ```
 $ python MVFSL-LC/MVFSL-LC_train.py
+```
+## Reference
+```
+@Article{Shuqiang-MVFSL-TOMM2020,
+  author =  {Shuqiang, Jiang and Weiqing, Min and Yongqiang, Lyu and Linhu,Liu},
+  title =   {Few-Shot Food Recognition via Multi-View Representation},
+  journal = {ACM Transactions on Multimedia Computing, Communications and Applications (Accepted)},
+  year =    {2020},
+}
 ```
