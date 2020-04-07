@@ -13,8 +13,8 @@ RN-Ingredeint| 53.5%|70.5%|64.0%|
 MVFSL-LC|55.1%|74.8%|65.8%|
 **MVFSL-TC**|**55.3%**|**75.1%**|**66.1%**|
 ## Split&Pre-trained models
-[split.zip](https://www.baidu.com/)  contains the train/test split of three food datasets(Food-101,VIREO Food172 and ChineseFoodNet) used in our paper. we show both the category split and the ingredient split. 
-[Pre-trained_model](https://www.baidu.com/) contains all the pre-trained models in this work.
+[split.zip](https://drive.google.com/open?id=1MWPeS3_L9EpxssFJ2yEdpOs1AkPT6cU0)  contains the train/test split of three food datasets(Food-101,VIREO Food172 and ChineseFoodNet) used in our paper. we show both the category split and the ingredient split. 
+[Pre-trained_model](https://drive.google.com/open?id=1ebOc6iaNZogd7iM1c5gQUW-9hLvst4iB) contains all the pre-trained models in this work.
 ## Requirements
 Training and testing codes are integrated into one repositories:
 - tensorflow 1.x
