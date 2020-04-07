@@ -27,7 +27,7 @@ $ python MVFSL-TC/MVFSL-TC_train.py
 Note: The model need to be initialized by pre-trained model, and you need to modify the path.  
 For MVFSL-LC:
 ```
-$ python MVFSL-LC/MVFSL-LC_train.py
+$ python MVFSL-LC/train_MVFSL-LC.py
 ```
 ## Reference
 ```
